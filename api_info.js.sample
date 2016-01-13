@@ -1,0 +1,14 @@
+{
+    "APP_NAME1": {
+        "api_key": "YOUR_API_KEY",
+        "api_secret": "YOUR_API_SECRET",
+        "access_token": "YOUR_ACCESS_TOKEN",
+        "access_token_secret": "YOUR_ACCESS_TOKEN_SECRET"
+    },
+    "APP_NAME2": {
+        "api_key": "YOUR_API_KEY",
+        "api_secret": "YOUR_API_SECRET",
+        "access_token": "YOUR_ACCESS_TOKEN",
+        "access_token_secret": "YOUR_ACCESS_TOKEN_SECRET"
+    }
+}
